@@ -1,6 +1,9 @@
 # covid19-maine-resources
 Compilation of resources specific to COVID-19 in Maine
 
+Please join our Slack channel, #p-covid19. (Please go to openmaine.org to find a link
+to join our Slack, plus more information about OpenMaine.)
+
 
 As a Google doc: https://docs.google.com/document/d/1adYdqIA_VXgyYW07nfmLZKAN3KZHBGrI-SyFVN8Mecw/edit#heading=h.vczlixrmf7d5
 
